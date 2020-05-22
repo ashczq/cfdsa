@@ -100,7 +100,7 @@ metadata:
 
 spec:
    rules:
-   - host: "wordpress-157.230.193.50.nip.io"
+   - host: "wordpress-157.230.193.94.nip.io"
      http:
         paths:
         - path: /
